@@ -43,6 +43,8 @@ namespace EnkelKalkylator
             Console.WriteLine($"Resultatet: {result}");
             Console.ReadKey();
 
+//Ändring i branch
+
         }
     }
 }
